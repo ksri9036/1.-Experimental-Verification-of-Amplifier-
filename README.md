@@ -1,4 +1,4 @@
-<img width="869" height="1280" alt="image" src="https://github.com/user-attachments/assets/46c0bb20-27a8-4c05-b304-c27704349a8c" />#**EX.NO:** 1  # EXPERIMENTAL VERIFICATION OF AMPLIFIER INVERTING, NON INVERTING , DIFFERENTIAL AMPLIFIER AND INSTRUMENTATION AMPLIFIERS
+#**EX.NO:** 1  # EXPERIMENTAL VERIFICATION OF AMPLIFIER INVERTING, NON INVERTING , DIFFERENTIAL AMPLIFIER AND INSTRUMENTATION AMPLIFIERS
 **DATE:**  
 ---
 
@@ -228,7 +228,8 @@ PROCEDURE:
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
 
-![Uploading image.png…]()
+<img width="1080" height="1181" alt="image" src="https://github.com/user-attachments/assets/ae19e105-078c-4768-a00d-3ffb554a9ff2" />
+
 
 
 ---
