@@ -1,4 +1,4 @@
-#**EX.NO:** 1  # EXPERIMENTAL VERIFICATION OF AMPLIFIER INVERTING, NON INVERTING , DIFFERENTIAL AMPLIFIER AND INSTRUMENTATION AMPLIFIERS
+<img width="869" height="1280" alt="image" src="https://github.com/user-attachments/assets/46c0bb20-27a8-4c05-b304-c27704349a8c" />#**EX.NO:** 1  # EXPERIMENTAL VERIFICATION OF AMPLIFIER INVERTING, NON INVERTING , DIFFERENTIAL AMPLIFIER AND INSTRUMENTATION AMPLIFIERS
 **DATE:**  
 ---
 
@@ -101,8 +101,7 @@ Here, the output is fed back to the inverting terminal, and **no phase shift** o
 
 
 ACL = 1 + RF/R1
-
-
+Rf=15kohm,R1=1.5kohm
 ---
 
 ## CIRCUIT DIAGRAM
@@ -187,15 +186,13 @@ Choose  R1 = 1.5kOhm, Rf = 15kOhm
 
 ## TABULATION (Differential Amplifier)
 
-| S.No | V1 (V) | V2 (V) | Vo = (-Rf/R1)(V1 - V2) (V) | Theoretical | Practical |
-|------|---------|---------|-----------------------------|--------------|------------|
-| 1 | | | | | |
-| 2 | | | | | |
-| 3 | | | | | |
+<img width="710" height="1289" alt="image" src="https://github.com/user-attachments/assets/373505f5-40c5-4939-8239-6597b30b07e3" />
+
 
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
 
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/3158e0a1-6ea3-4810-a73d-466ce3b281f5" />
 
 ---
 ## INSTRUMENTATION AMPLIFIER
@@ -210,7 +207,7 @@ Vo = RF/R1[1+ 2R’/R][V2-V1]
 
 ## CIRCUIT DIAGRAM: INSTRUMENTATION AMPLIFIER
 
-<img width="1006" height="1087" alt="image" src="https://github.com/user-attachments/assets/636c08f9-7940-470e-a89e-4891d57a9ac7" />
+<img width="1080" height="1265" alt="image" src="https://github.com/user-attachments/assets/449b189d-8675-4c6c-9a73-25fdbe2f2277" />
 
 PROCEDURE:
 
@@ -226,14 +223,12 @@ PROCEDURE:
 
 ## TABULATION (Instrumentation Amplifier)
 
-| S.No | V1 (V) | V2 (V) | Vo = (Rf / R1) [1 + (2R’ / R)] (V2 – V1) (V) | Theoretical | Practical |
-|------|---------|---------|----------------------------------------------|--------------|------------|
-| 1 | | | | | |
-| 2 | | | | | |
-| 3 | | | | | |
+<img width="869" height="1280" alt="image" src="https://github.com/user-attachments/assets/e7142e00-c93d-4aaa-b8c9-58ed98e001ce" />
 
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
+
+![Uploading image.png…]()
 
 
 ---
