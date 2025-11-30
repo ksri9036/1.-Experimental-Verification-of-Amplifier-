@@ -16,7 +16,7 @@ To design and construct an Inverting, Non-Inverting, Differential and Instrument
 | 3 | Dual RPS | (0 – 30) V | 1 |
 | 4 | Op-Amp | µA741 | 1 |
 | 5 | Bread Board | — | 1 |
-| 6 | Resistors | 1K, 10K, 2.2K | 2 |
+| 6 | Resistors | 1.5K, 15K | 2 |
 | 7 | Connecting wires and probes | As required | — |
 
 ---
@@ -51,7 +51,8 @@ PIN DIAGRAM
 <img width="624" height="269" alt="image" src="https://github.com/user-attachments/assets/635c9837-d5f5-4d6f-acc9-8a47a4368230" />
 
 CIRCUIT DIAGRAM: INVERTING AMPLIFIER:
-<img width="779" height="440" alt="image" src="https://github.com/user-attachments/assets/a14d8bc1-9dc7-4a49-98b0-f5320f450a63" />
+<img width="806" height="1280" alt="image" src="https://github.com/user-attachments/assets/52bf3a80-5ee9-46cb-9de2-f2a527841af6" />
+
 
 MODEL GRAPH 
 
@@ -65,8 +66,8 @@ Inverting amplifier:
 
 A = -Rf/R1
 Take  A = 10
-Rf =10 R1
-Choose R1 = 1kΩ, Rf=10kΩ
+Rf =15 R1
+Choose R1 = 1.5kΩ, Rf=10kΩ
 
 PROCEDURE:
 Inverting amplifier:
@@ -84,14 +85,16 @@ Inverting amplifier:
 
 | S.No | Vin (V) | Time (ms) | Vo = Vin[-(Rf / R1)] (V) | Theoretical | Practical |
 |------|----------|-----------|------------------------------|--------------|------------|
-| 1 | 2| | | | |
-| 2 | | | | | |
-| 3 | | | | | |			
+| 1 | 1.4V | 0.7 | 14 | 14  | -13.9 |
+| 2 | 1.16V | 0.7 | 11.6 | 11.6 | -11.2 |
+| 3 | 2.3V | 0.7 | 23 | 23 | -22.8 |			
  
 
 
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
+
+<img width="992" height="1280" alt="image" src="https://github.com/user-attachments/assets/ecf4dea1-bf55-456f-9334-6d6dc26ec6cd" />
 
 
 ---
@@ -109,7 +112,9 @@ ACL = 1 + RF/R1
 ## CIRCUIT DIAGRAM
 
 
-<img width="704" height="397" alt="image" src="https://github.com/user-attachments/assets/1b4b170f-cf21-4fa9-9dc7-96db30b3c153" />
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/38ceb71b-f314-48f6-b8c1-11e117e2a33f" />
+
+
 
 ---
 
@@ -132,7 +137,7 @@ PROCEDURE:
 
 | S.No | Vin (V) | Time (ms) | Vo = Vin[1 + (Rf / R1)] (V) | Theoretical | Practical |
 |------|----------|-----------|------------------------------|--------------|------------|
-| 1 | | | | | |
+| 1 | 920mV | 0.7 | | | |
 | 2 | | | | | |
 | 3 | | | | | |
 
